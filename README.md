@@ -1,4 +1,4 @@
-# DS2002Project1
+# DS2002Project1: Christina Barton, Corinna, Maria
 
 Our project focuses on analyzing milk and egg prices over time to identify trends and potential influencing factors, such as inflation and market fluctuations. Both of our datasets for the egg and milk prices are sourced from the Federal Reserve Economic Data (FRED). 
 - We used the CSV format for the egg price data from:
